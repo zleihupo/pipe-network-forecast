@@ -1,0 +1,9 @@
+numpy>=1.21
+pandas>=1.4
+matplotlib>=3.5
+seaborn>=0.12
+scikit-learn>=1.1
+statsmodels>=0.13
+lightgbm>=3.3
+shap>=0.41
+openpyxl>=3.0
